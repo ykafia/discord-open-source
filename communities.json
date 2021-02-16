@@ -771,6 +771,13 @@
       "quote": "Discord has been amazing for accelerating the development of React Spring and React Three Fiber. Screen sharing and instant communication have been pivotal in resolving bugs and coordinating with our contributors.",
       "inviteCode": "poimandres",
       "githubUrl": "https://github.com/pmndrs"
+    },
+    {
+      "logo": "Stride.svg",
+      "title": "Stride Engine",
+      "quote": "Discord has helped our community share our knowledge, our work and our ideas.",
+      "inviteCode": "TRKrQfH8",
+      "githubUrl": "https://github.com/stride3d/stride"
     }
   ]
 }
